@@ -1,0 +1,1 @@
+Simple Bar Graph and Scatter plot with values displayed with Tipsy.js
